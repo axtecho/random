@@ -1,0 +1,15 @@
+main {
+  background-color: tan;
+}
+
+.thanksbrah {
+  height: 100vw;
+  display: flex;
+  justify-content: center;
+}
+
+.thanksbrah p {
+  margin-top: 30vw;
+  color: white;
+  font-size: 15rem;
+}
